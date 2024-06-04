@@ -15,7 +15,5 @@
       </div>
       <button class="btn" type="button">Add transaction</button>
     </form>
-    <button class="btn" @click="fetchHello">Fetch Hello</button>
-    <p>{{ message }}</p>
   </div>
 </template>
